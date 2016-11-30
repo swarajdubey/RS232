@@ -1,0 +1,14 @@
+#-----------------------------------------------------------
+# PlanAhead v14.5 (64-bit)
+# Build 247527 by xbuild on Mon Mar 25 17:13:07 MDT 2013
+# Start of session at: Wed Nov 25 16:15:12 2015
+# Process ID: 3052
+# Log file: C:/Users/Michael/Xilinx/RS232/planAhead_run_2/planAhead.log
+# Journal file: C:/Users/Michael/Xilinx/RS232/planAhead_run_2/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source C:/Users/Michael/Xilinx/RS232/pa.fromNetlist.tcl
+startgroup
+set_property package_pin E18 [get_ports switchBD]
+endgroup
+save_constraints

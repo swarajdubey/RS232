@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Users/Michael/Xilinx/RS232/RS232.xst" -ofn "C:/Users/Michael/Xilinx/RS232/RS232.syr" 

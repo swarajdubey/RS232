@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Michael\Xilinx\RS232\TopLevelRS232.ncd
+OUTFILE=C:\Users\Michael\Xilinx\RS232\TopLevelRS232.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5fg320
+WORKINGDIR=C:\Users\Michael\Xilinx\RS232
+LICENSE=WebPack
+USER_INFO=__0_0_0

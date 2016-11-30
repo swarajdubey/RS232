@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "C:/Users/Michael/Xilinx/RS232/Rs232Txd.xst" -ofn "C:/Users/Michael/Xilinx/RS232/Rs232Txd.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-5 Rs232Txd.ngc Rs232Txd.ngd  
+map -intstyle ise -p xc3s500e-fg320-5 -cm area -ir off -pr off -c 100 -o Rs232Txd_map.ncd Rs232Txd.ngd Rs232Txd.pcf 
+par -w -intstyle ise -ol high -t 1 Rs232Txd_map.ncd Rs232Txd.ncd Rs232Txd.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml Rs232Txd.twx Rs232Txd.ncd -o Rs232Txd.twr Rs232Txd.pcf 
+xst -intstyle ise -ifn "C:/Users/Michael/Xilinx/RS232/Rs232Txd.xst" -ofn "C:/Users/Michael/Xilinx/RS232/Rs232Txd.syr" 

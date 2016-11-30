@@ -1,0 +1,8 @@
+INTSTYLE=impact
+INFILE=C:\Users\Michael\Xilinx\RS232\impact.xsl
+OUTFILE=C:\Users\Michael\Xilinx\RS232\impact.xsl
+FAMILY=Multiple
+PART=Multiple
+WORKINGDIR=C:\Users\Michael\Xilinx\RS232
+LICENSE=iMPACT
+USER_INFO=iMPACT

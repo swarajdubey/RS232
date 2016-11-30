@@ -1,0 +1,6 @@
+vhdl work "C:\Users\Michael\Xilinx\RS232\Rxd.vhd"
+vhdl work "C:\Users\Michael\Xilinx\RS232\Rs232Txd.vhd"
+vhdl work "C:\Users\Michael\Xilinx\RS232\scan4digit.vhd"
+vhdl work "C:\Users\Michael\Xilinx\RS232\RS232.vhd"
+vhdl work "C:\Users\Michael\Xilinx\RS232\d4to7.vhd"
+vhdl work "C:\Users\Michael\Xilinx\RS232\TopLevelRS232.vhd"

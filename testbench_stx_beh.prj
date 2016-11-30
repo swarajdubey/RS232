@@ -1,0 +1,7 @@
+vhdl isim_temp "Rxd.vhd"
+vhdl isim_temp "Rs232Txd.vhd"
+vhdl isim_temp "scan4digit.vhd"
+vhdl isim_temp "RS232.vhd"
+vhdl isim_temp "d4to7.vhd"
+vhdl isim_temp "TopLevelRS232.vhd"
+vhdl isim_temp "tb_TopLevelRS232.vhd"

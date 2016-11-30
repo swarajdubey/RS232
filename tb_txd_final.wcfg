@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Michael/Xilinx/RS232/tb_txd_isim_beh1.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="tb_txd" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="15" />
+   <wave_markers>
+      <marker time="48750000" label="" />
+      <marker time="1036750000" label="" />
+   </wave_markers>
+   <wvobject fp_name="/tb_txd/uut/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_txd/uut/send" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">send</obj_property>
+      <obj_property name="ObjectShortName">send</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_txd/uut/datain" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">datain[7:0]</obj_property>
+      <obj_property name="ObjectShortName">datain[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_txd/uut/txd" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">txd</obj_property>
+      <obj_property name="ObjectShortName">txd</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_txd/uut/presstate" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">presstate</obj_property>
+      <obj_property name="ObjectShortName">presstate</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_txd/uut/nextstate" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">nextstate</obj_property>
+      <obj_property name="ObjectShortName">nextstate</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_txd/uut/ireset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ireset</obj_property>
+      <obj_property name="ObjectShortName">ireset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_txd/uut/iclock1xenable" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">iclock1xenable</obj_property>
+      <obj_property name="ObjectShortName">iclock1xenable</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_txd/uut/iclock1x" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">iclock1x</obj_property>
+      <obj_property name="ObjectShortName">iclock1x</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_txd/uut/ienabletxdbuffer" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ienabletxdbuffer</obj_property>
+      <obj_property name="ObjectShortName">ienabletxdbuffer</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_txd/uut/ienableshift" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ienableshift</obj_property>
+      <obj_property name="ObjectShortName">ienableshift</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_txd/uut/isend1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">isend1</obj_property>
+      <obj_property name="ObjectShortName">isend1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_txd/uut/isend2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">isend2</obj_property>
+      <obj_property name="ObjectShortName">isend2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_txd/uut/itxdbuffer" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">itxdbuffer[8:0]</obj_property>
+      <obj_property name="ObjectShortName">itxdbuffer[8:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_txd/uut/inobitssend" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">inobitssend[3:0]</obj_property>
+      <obj_property name="ObjectShortName">inobitssend[3:0]</obj_property>
+   </wvobject>
+</wave_config>

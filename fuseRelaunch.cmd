@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Swaraj/Desktop/All_folders/xilinx/RS232/tb_rxd_isim_beh.exe" -prj "C:/Users/Swaraj/Desktop/All_folders/xilinx/RS232/tb_rxd_beh.prj" "work.tb_rxd" 

@@ -1,0 +1,3 @@
+vhdl work "Rxd.vhd"
+vhdl work "Rs232Txd.vhd"
+vhdl work "RS232.vhd"

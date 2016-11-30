@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="C:/Users/Michael/Xilinx/RS232/tb_rxd_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="std_logic_1164" />
+            <top_module name="std_logic_arith" />
+            <top_module name="std_logic_unsigned" />
+            <top_module name="tb_rxd" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="19" />
+   <wvobject fp_name="/tb_rxd/uut/reset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">reset</obj_property>
+      <obj_property name="ObjectShortName">reset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_rxd/uut/clock16x" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">clock16x</obj_property>
+      <obj_property name="ObjectShortName">clock16x</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_rxd/uut/rxd" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">rxd</obj_property>
+      <obj_property name="ObjectShortName">rxd</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_rxd/uut/btshift" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">btshift[0:0]</obj_property>
+      <obj_property name="ObjectShortName">btshift[0:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_rxd/uut/dataout1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">dataout1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">dataout1[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_rxd/uut/presstate" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">presstate</obj_property>
+      <obj_property name="ObjectShortName">presstate</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_rxd/uut/nextstate" type="other" db_ref_id="1">
+      <obj_property name="ElementShortName">nextstate</obj_property>
+      <obj_property name="ObjectShortName">nextstate</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_rxd/uut/ireset" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ireset</obj_property>
+      <obj_property name="ObjectShortName">ireset</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_rxd/uut/iresetreg" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">iresetreg</obj_property>
+      <obj_property name="ObjectShortName">iresetreg</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_rxd/uut/irxd1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">irxd1</obj_property>
+      <obj_property name="ObjectShortName">irxd1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_rxd/uut/irxd2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">irxd2</obj_property>
+      <obj_property name="ObjectShortName">irxd2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_rxd/uut/iclock1xenable" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">iclock1xenable</obj_property>
+      <obj_property name="ObjectShortName">iclock1xenable</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_rxd/uut/iclock1x" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">iclock1x</obj_property>
+      <obj_property name="ObjectShortName">iclock1x</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_rxd/uut/ienabledataout" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ienabledataout</obj_property>
+      <obj_property name="ObjectShortName">ienabledataout</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_rxd/uut/iclockdiv" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">iclockdiv[3:0]</obj_property>
+      <obj_property name="ObjectShortName">iclockdiv[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_rxd/uut/ibtshift" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ibtshift[0:0]</obj_property>
+      <obj_property name="ObjectShortName">ibtshift[0:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_rxd/uut/idataout1" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">idataout1[7:0]</obj_property>
+      <obj_property name="ObjectShortName">idataout1[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_rxd/uut/ishiftregister" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">ishiftregister[7:0]</obj_property>
+      <obj_property name="ObjectShortName">ishiftregister[7:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/tb_rxd/uut/inobitsreceived" type="array" db_ref_id="1">
+      <obj_property name="ElementShortName">inobitsreceived[3:0]</obj_property>
+      <obj_property name="ObjectShortName">inobitsreceived[3:0]</obj_property>
+   </wvobject>
+</wave_config>
